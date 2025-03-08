@@ -1,5 +1,5 @@
 payload:
-  - '＋.raw.githubusercontent.com'
-  - '＋.googleapis.cn'
-  - '＋.googleapis.com'
-  - '＋.x.com'
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleapis.cn
