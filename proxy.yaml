@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,feedly.com
+  - DOMAIN-SUFFIX,sagernet.org
